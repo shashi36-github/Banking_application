@@ -1,0 +1,15 @@
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfoInputs.cache
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.AssemblyInfo.cs
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.exe
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.dll.config
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.deps.json
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.runtimeconfig.json
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.dll
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\bin\Debug\net8.0\BankingApplication.pdb
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.dll
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\refint\BankingApplication.dll
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.pdb
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\BankingApplication.genruntimeconfig.cache
+C:\Users\sudan\source\repos\BankingApplication\BankingApplication\obj\Debug\net8.0\ref\BankingApplication.dll
